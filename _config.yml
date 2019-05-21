@@ -109,7 +109,7 @@ author:
   name             : "Park Chanwoo" # "Your Name"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Suwon,Korea" # "Somewhere"
+  location         : "Suwon, Korea" # "Somewhere"
   email            : "dev.halo1005@gmail.com"
   links:
     - label: "Email"
@@ -142,7 +142,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: :https//github.com/dev-halo" # url:
+      url: "https://github.com/dev-halo" # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
