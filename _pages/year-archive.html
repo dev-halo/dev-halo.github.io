@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /year-archive/
-title: "Post by Year"
+title: "Posts by Year"
 author_profile: true
 ---
 {% assign postByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
